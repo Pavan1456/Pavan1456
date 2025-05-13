@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **AI-powered financial systems**
+- 🔭 I’m currently working on **MERN**
 - 🌱 I’m exploring **LangChain, LLMs, WebSockets, and backend automation**
 - 👯 I’m looking to collaborate on **open source projects** and **ML tools**
 - 💬 Ask me about **Python, Streamlit, SQL, Java, and APIs**
@@ -68,8 +68,8 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.pavanagrawalofficial1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pavan-agrawal-958a4a288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Pavan1456"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
